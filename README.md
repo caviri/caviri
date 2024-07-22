@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/carlos-vivar-rios-750a2473/)
 [![Website Badge](https://img.shields.io/badge/Portfolio-Website-green)](https://www.carlosvivarrios.com)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@MoreAndDifferent)
-[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://x.com/katospiegel)
+[![Twitter Badge](https://img.shields.io/twitter/follow/katospiegel?style=social)](https://x.com/katospiegel)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=caviri.caviri)
 
 Hi! I'm Carlos, a **Biologist** and **Data Engineer** with experience in **genomics**, **microscopy & satellite multidimensional image analysis**, **cellular biology modeling**, **AI stuff**, and **web development**. Currently, I am working as a **Data Engineer** at the **Swiss Data Science Center** at **EPFL**. I love learning new things, and I'm completely addicted to participating in hackathons with extraordinary minds :).
