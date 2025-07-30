@@ -29,8 +29,7 @@ Hi! I'm Carlos, a **Biologist** and **Data Engineer** with experience in **genom
 
 ---
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=caviri&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caviri&langs_count=3&hide=javascript,go,html,css,tex)
+![github stats]([https://github-readme-stats-sigma-five.vercel.app/api?username=caviri&show_icons=true](https://github-readme-stats.vercel.app/api?username=caviri&show_icons=true&include_orgs=true&theme=transparent))
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caviri&hide_langs_below=10) -->
 
