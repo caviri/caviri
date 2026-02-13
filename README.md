@@ -45,7 +45,7 @@ Hi! I'm Carlos, a **Biologist** and **Data Engineer** with experience in **genom
     <td width="50%" valign="top">
       <a href="https://boecast.es"><img src="projects/boecast/boecast.gif" alt="Boecast.es preview" width="100%"></a>
       <h4>Boecast.es</h4>
-      <p>A focused space for short science stories and podcast-style explainers.</p>
+      <p>A focused space for short spanish law updates and podcast-style explainers.</p>
       <p><a href="https://boecast.es">Visit boecast.es</a></p>
     </td>
     <td width="50%" valign="top">
