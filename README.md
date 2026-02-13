@@ -7,30 +7,62 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/katospiegel?style=social)](https://x.com/katospiegel)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=caviri.caviri)
 
-Hi! I'm Carlos, a **Biologist** and **Data Engineer** with experience in **genomics**, **microscopy & satellite multidimensional image analysis**, **cellular biology modeling**, **AI stuff**, and **web development**. Currently, I am working as a **Data Engineer** at the **Swiss Data Science Center** at **EPFL**. I love learning new things, and I'm completely addicted to participating in hackathons with extraordinary minds :).
+Hi! I'm Carlos, a **Biologist** and **Data Engineer** with experience in **genomics**, **microscopy & satellite multidimensional image analysis**, **cellular biology modeling**, **AI stuff**, and **web development**. Currently, I am working as a **Senior Data Engineer** at the **Swiss Data Science Center** at **EPFL**. I love learning new things, and I'm completely addicted to participating in hackathons with extraordinary minds :).
 
 ---
 
 ### Main Projects
 
-- **ODTP:** [Open Digital Twin Platform](https://odtp-org.github.io/)
+- **Open Pulse:** [Open Pulse](https://memento.epfl.ch/event/open-pulse-mini-hackathon/)
+    - Platform for monitoring Research Open Source Repositories
 - **Imaging plaza:** [Imaging Plaza](https://www.datascience.ch/resources/imaging-plaza)
 - **SDSC-Hackathons:** [SDSC Hackathons](https://sdsc-hackathons.ch/)
+- **ODTP:** [Open Digital Twin Platform](https://odtp-org.github.io/)
+
 
 ---
 
 ### Latest side-hustle projects
 
+
 <!-- HASHNODE:START -->
-- [Pakobot](https://github.com/caviri/pakobot)
-- [Champsec 1818](https://github.com/caviri/champsec1818)
-- [Portrait of a lake's death](https://github.com/h4ck1ng-science/portrait_of_a_lakes_death)
-<!-- HASHNODE:END -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.carlosvivarrios.com/jsonld-editor/"><img src="https://github.com/caviri/jsonld-editor/blob/main/json-ld-explorer.gif?raw=true" alt="JSON-LD Editor demo" width="100%"></a>
+      <h4>JSON-LD Editor</h4>
+      <p>Interactive editor to create, validate, and explore JSON-LD graphs quickly.</p>
+      <p><a href="https://www.carlosvivarrios.com/jsonld-editor/">Live demo</a> • <a href="https://github.com/caviri/jsonld-editor">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.carlosvivarrios.com/onto-maker/"><img src="projects/onto-maker/onto-maker.gif" alt="Onto-maker demo" width="100%"></a>
+      <h4>Onto-maker</h4>
+      <p>Lightweight ontology sketchpad for turning ideas into structured vocabularies.</p>
+      <p><a href="https://www.carlosvivarrios.com/onto-maker/">Live demo</a> • <a href="https://github.com/caviri/onto-maker/tree/main">Repository</a> (code available soon)</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://boecast.es"><img src="projects/boecast/boecast.gif" alt="Boecast.es preview" width="100%"></a>
+      <h4>Boecast.es</h4>
+      <p>A focused space for short science stories and podcast-style explainers.</p>
+      <p><a href="https://boecast.es">Visit boecast.es</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://h4ck1ng.science/json2md/"><img src="https://github.com/h4ck1ng-science/json2md/blob/main/json2md.gif?raw=true" alt="JSON2MD demo" width="100%"></a>
+      <h4>JSON2MD</h4>
+      <p>Converts JSON structures into clean, readable Markdown documents.</p>
+      <p><a href="https://h4ck1ng.science/json2md/">Live demo</a> • <a href="https://github.com/h4ck1ng-science/json2md">Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-![https://github-readme-stats-sigma-five.vercel.app/api?username=caviri&show_icons=true](https://github-readme-stats.vercel.app/api?username=caviri&show_icons=true&include_orgs=true&theme=transparent)
+My brain is open :)
+
+<!-- ![https://github-readme-stats-sigma-five.vercel.app/api?username=caviri&show_icons=true](https://github-readme-stats.vercel.app/api?username=caviri&show_icons=true&include_orgs=true&theme=transparent)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caviri&hide_langs_below=10) -->
 
-*Profile page inspired by [giswqs](https://github.com/sponsors/giswqs?success=true) :)
+<!-- *Profile page inspired by [giswqs](https://github.com/sponsors/giswqs?success=true) :) -->
