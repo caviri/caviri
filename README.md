@@ -59,6 +59,10 @@ Hi! I'm Carlos, a **Biologist** and **Data Engineer** with experience in **genom
 
 ---
 
+![Stats](./profile/stats.svg)
+
+---
+
 My brain is open :)
 
 <!-- ![https://github-readme-stats-sigma-five.vercel.app/api?username=caviri&show_icons=true](https://github-readme-stats.vercel.app/api?username=caviri&show_icons=true&include_orgs=true&theme=transparent)
