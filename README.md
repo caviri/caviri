@@ -11,7 +11,9 @@ Hi! I'm Carlos, a **Biologist** and **Data Engineer** with experience in **genom
 
 ---
 
-### Main Projects
+Check my full portfolio at [h4ck1ng.science](https://h4ck1ng.science)
+
+### Current Main Projects
 
 - **Open Pulse:** [Open Pulse](https://sdsc-ordes.github.io/open-pulse/)
     - Platform for monitoring Research Open Source Repositories
