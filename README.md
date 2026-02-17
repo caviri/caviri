@@ -13,7 +13,7 @@ Hi! I'm Carlos, a **Biologist** and **Data Engineer** with experience in **genom
 
 ### Main Projects
 
-- **Open Pulse:** [Open Pulse](https://memento.epfl.ch/event/open-pulse-mini-hackathon/)
+- **Open Pulse:** [Open Pulse](https://sdsc-ordes.github.io/open-pulse/)
     - Platform for monitoring Research Open Source Repositories
 - **Imaging plaza:** [Imaging Plaza](https://www.datascience.ch/resources/imaging-plaza)
 - **SDSC-Hackathons:** [SDSC Hackathons](https://sdsc-hackathons.ch/)
