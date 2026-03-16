@@ -31,13 +31,13 @@ Check my full portfolio at [h4ck1ng.science](https://h4ck1ng.science)
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.carlosvivarrios.com/jsonld-editor/"><img src="https://github.com/caviri/jsonld-editor/blob/main/json-ld-explorer.gif?raw=true" alt="JSON-LD Editor demo" width="100%"></a>
+      <a href="https://caviri.github.io/jsonld-editor/"><img src="https://github.com/caviri/jsonld-editor/blob/main/json-ld-explorer.gif?raw=true" alt="JSON-LD Editor demo" width="100%"></a>
       <h4>JSON-LD Editor</h4>
       <p>Interactive editor to create, validate, and explore JSON-LD graphs quickly.</p>
       <p><a href="https://www.carlosvivarrios.com/jsonld-editor/">Live demo</a> • <a href="https://github.com/caviri/jsonld-editor">Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.carlosvivarrios.com/onto-maker/"><img src="projects/onto-maker/onto-maker.gif" alt="Onto-maker demo" width="100%"></a>
+      <a href="https://caviri.github.io/onto-maker/"><img src="projects/onto-maker/onto-maker.gif" alt="Onto-maker demo" width="100%"></a>
       <h4>Onto-maker</h4>
       <p>Lightweight ontology sketchpad for turning ideas into structured vocabularies.</p>
       <p><a href="https://www.carlosvivarrios.com/onto-maker/">Live demo</a> • <a href="https://github.com/caviri/onto-maker/tree/main">Repository</a> (code available soon)</p>
@@ -51,7 +51,7 @@ Check my full portfolio at [h4ck1ng.science](https://h4ck1ng.science)
       <p><a href="https://boecast.es">Visit boecast.es</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://h4ck1ng.science/json2md/"><img src="https://github.com/h4ck1ng-science/json2md/blob/main/json2md.gif?raw=true" alt="JSON2MD demo" width="100%"></a>
+      <a href="https://h4ck1ng-science.github.io/json2md/"><img src="https://github.com/h4ck1ng-science/json2md/blob/main/json2md.gif?raw=true" alt="JSON2MD demo" width="100%"></a>
       <h4>JSON2MD</h4>
       <p>Converts JSON structures into clean, readable Markdown documents.</p>
       <p><a href="https://h4ck1ng.science/json2md/">Live demo</a> • <a href="https://github.com/h4ck1ng-science/json2md">Repository</a></p>
