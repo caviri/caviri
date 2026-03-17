@@ -34,13 +34,13 @@ Check my full portfolio at [h4ck1ng.science](https://h4ck1ng.science)
       <a href="https://caviri.github.io/jsonld-editor/"><img src="https://github.com/caviri/jsonld-editor/blob/main/json-ld-explorer.gif?raw=true" alt="JSON-LD Editor demo" width="100%"></a>
       <h4>JSON-LD Editor</h4>
       <p>Interactive editor to create, validate, and explore JSON-LD graphs quickly.</p>
-      <p><a href="https://www.caviri.github.io/jsonld-editor/">Live demo</a> • <a href="https://github.com/caviri/jsonld-editor">Repository</a></p>
+      <p><a href="https://caviri.github.io/jsonld-editor/">Live demo</a> • <a href="https://github.com/caviri/jsonld-editor">Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://caviri.github.io/onto-maker/"><img src="projects/onto-maker/onto-maker.gif" alt="Onto-maker demo" width="100%"></a>
       <h4>Onto-maker</h4>
       <p>Lightweight ontology sketchpad for turning ideas into structured vocabularies.</p>
-      <p><a href="https://www.caviri.github.io/onto-maker/">Live demo</a> • <a href="https://github.com/caviri/onto-maker/tree/main">Repository</a> (code available soon)</p>
+      <p><a href="https://caviri.github.io/onto-maker/">Live demo</a> • <a href="https://github.com/caviri/onto-maker/tree/main">Repository</a> (code available soon)</p>
     </td>
   </tr>
   <tr>
