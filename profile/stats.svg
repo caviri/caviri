@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Carlos Vivar Rios' GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 56, Total Commits  (last year) : 1706, Total PRs: 586, Total Issues: 132, Contributed to (last year): 25</desc>
+        <desc id="descId">Total Stars Earned: 56, Total Commits  (last year) : 1740, Total PRs: 586, Total Issues: 132, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 43.89215931602722;
+        stroke-dashoffset: 43.85889986760737;
       }
     }
   
